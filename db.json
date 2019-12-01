@@ -26,7 +26,7 @@
 		"positions": {
 			"posKind1": 1,
 			"posKind2": 2,
-			"position1": 0,
+			"position1": 30000,
 			"position2": 0
 		},
 		"roomId": 11,
