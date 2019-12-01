@@ -1,4 +1,8 @@
 {
+	"shadeIds": [
+        	7,
+		8
+    	],
 	"shadeData": [
 		{
 		"batteryStatus": 3,
@@ -20,7 +24,7 @@
 		"batteryStatus": 3,
 		"batteryStrength": 150,
 		"groupId": 5,
-		"id": 7,
+		"id": 8,
 		"name": "U2hhZGUgMg==",
 		"order": 0,
 		"positions": {
