@@ -3,8 +3,7 @@
 		7,
 		8
 	],
-	"shade": {
-		"7": {
+	"shade": [{
 			"batteryStatus": 3,
 			"batteryStrength": 200,
 			"groupId": 5,
@@ -20,7 +19,7 @@
 			"roomId": 11,
 			"type": 8
 		},
-		"8": {
+		{
 			"batteryStatus": 3,
 			"batteryStrength": 150,
 			"groupId": 5,
@@ -36,5 +35,5 @@
 			"roomId": 11,
 			"type": 8
 		}
-	}
+	]
 }
