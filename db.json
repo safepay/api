@@ -1,7 +1,8 @@
 {
 	"shadeIds": [
 		7,
-		8
+		8,
+		9
 	],
 	"shade": [{
 			"batteryStatus": 3,
@@ -30,6 +31,22 @@
 				"posKind1": 1,
 				"posKind2": 2,
 				"position1": 30000,
+				"position2": 0
+			},
+			"roomId": 11,
+			"type": 8
+		},
+		{
+			"batteryStatus": 3,
+			"batteryStrength": 10,
+			"groupId": 5,
+			"id": 9,
+			"name": "U2hhZGUgMg==",
+			"order": 0,
+			"positions": {
+				"posKind1": 1,
+				"posKind2": 2,
+				"position1": 0,
 				"position2": 0
 			},
 			"roomId": 11,
