@@ -1,56 +1,58 @@
 {
-	"shadeIds": [
-		7,
-		8,
-		9
-	],
-	"shade": [{
-			"batteryStatus": 3,
-			"batteryStrength": 200,
-			"groupId": 5,
-			"id": 7,
-			"name": "U2hhZGUgMQ==",
-			"order": 0,
-			"positions": {
-				"posKind1": 1,
-				"posKind2": 2,
-				"position1": 65535,
-				"position2": 0
+	"shades": {
+		"shadeIds": [
+			7,
+			8,
+			9
+		],
+		"shadeData": [{
+				"batteryStatus": 3,
+				"batteryStrength": 200,
+				"groupId": 5,
+				"id": 7,
+				"name": "U2hhZGUgMQ==",
+				"order": 0,
+				"positions": {
+					"posKind1": 1,
+					"posKind2": 2,
+					"position1": 65535,
+					"position2": 0
+				},
+				"roomId": 11,
+				"type": 8
 			},
-			"roomId": 11,
-			"type": 8
-		},
-		{
-			"batteryStatus": 3,
-			"batteryStrength": 150,
-			"groupId": 5,
-			"id": 8,
-			"name": "U2hhZGUgMg==",
-			"order": 0,
-			"positions": {
-				"posKind1": 1,
-				"posKind2": 2,
-				"position1": 30000,
-				"position2": 0
+			{
+				"batteryStatus": 3,
+				"batteryStrength": 150,
+				"groupId": 5,
+				"id": 8,
+				"name": "U2hhZGUgMg==",
+				"order": 0,
+				"positions": {
+					"posKind1": 1,
+					"posKind2": 2,
+					"position1": 30000,
+					"position2": 0
+				},
+				"roomId": 11,
+				"type": 8
 			},
-			"roomId": 11,
-			"type": 8
-		},
-		{
-			"batteryStatus": 3,
-			"batteryStrength": 10,
-			"groupId": 5,
-			"id": 9,
-			"name": "U2hhZGUgMw==",
-			"order": 0,
-			"positions": {
-				"posKind1": 1,
-				"posKind2": 2,
-				"position1": 0,
-				"position2": 0
-			},
-			"roomId": 11,
-			"type": 8
-		}
-	]
+			{
+				"batteryStatus": 3,
+				"batteryStrength": 10,
+				"groupId": 5,
+				"id": 9,
+				"name": "U2hhZGUgMw==",
+				"order": 0,
+				"positions": {
+					"posKind1": 1,
+					"posKind2": 2,
+					"position1": 0,
+					"position2": 0
+				},
+				"roomId": 11,
+				"type": 8
+			}
+		]
+	}
 }
