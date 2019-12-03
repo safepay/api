@@ -55,7 +55,7 @@
 			}
 		]
 	},
-	"shadeData": [{
+	"shade": [{
 			"batteryStatus": 3,
 			"batteryStrength": 200,
 			"groupId": 5,
