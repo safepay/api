@@ -1,107 +1,161 @@
 {
 	"shades": {
 		"shadeIds": [
-			7,
-			8,
-			9
+			20516,
+			31636,
+			55784
 		],
 		"shadeData": [{
+				"id": 20516,
+				"type": 42,
+				"capabilities": 0,
 				"batteryStatus": 3,
-				"batteryStrength": 200,
-				"groupId": 5,
-				"id": 7,
-				"name": "U2hhZGUgMQ==",
-				"order": 0,
+				"batteryStrength": 165,
+				"roomId": 15451,
+				"firmware": {
+					"revision": 1,
+					"subRevision": 8,
+					"build": 1944
+				},
+				"motor": {
+					"revision": 51,
+					"subRevision": 52,
+					"build": 11825
+				},
+				"name": "U21hbGwgTGl2aW5n",
+				"groupId": 57728,
 				"positions": {
-					"posKind1": 1,
-					"posKind2": 2,
 					"position1": 65535,
-					"position2": 0
+					"posKind1": 1
 				},
-				"roomId": 11,
-				"type": 8
+				"signalStrength": 4
 			},
 			{
+				"id": 31636,
+				"type": 42,
+				"capabilities": 0,
 				"batteryStatus": 3,
-				"batteryStrength": 150,
-				"groupId": 5,
-				"id": 8,
-				"name": "U2hhZGUgMg==",
-				"order": 0,
-				"positions": {
-					"posKind1": 1,
-					"posKind2": 2,
-					"position1": 45000,
-					"position2": 0
+				"batteryStrength": 163,
+				"roomId": 15451,
+				"firmware": {
+					"revision": 1,
+					"subRevision": 8,
+					"build": 1944
 				},
-				"roomId": 11,
-				"type": 8
-			},
-			{
-				"batteryStatus": 3,
-				"batteryStrength": 10,
-				"groupId": 5,
-				"id": 9,
-				"name": "U2hhZGUgMw==",
-				"order": 0,
+				"motor": {
+					"revision": 51,
+					"subRevision": 52,
+					"build": 11825
+				},
+				"name": "QmlnIExpdmluZw==",
+				"groupId": 57728,
+				"signalStrength": 4,
 				"positions": {
-					"posKind1": 1,
-					"posKind2": 2,
 					"position1": 0,
-					"position2": 0
+					"posKind1": 1
+				}
+			},
+			{
+				"id": 55784,
+				"type": 42,
+				"capabilities": 0,
+				"batteryStatus": 2,
+				"batteryStrength": 120,
+				"roomId": 14714,
+				"firmware": {
+					"revision": 1,
+					"subRevision": 8,
+					"build": 1944
 				},
-				"roomId": 11,
-				"type": 8
+				"motor": {
+					"revision": 51,
+					"subRevision": 52,
+					"build": 11825
+				},
+				"name": "QmVkcm9vbSBCbGluZHM=",
+				"groupId": 7921,
+				"signalStrength": 4,
+				"positions": {
+					"posKind1": 1,
+					"position1": 3
+				}
 			}
 		]
 	},
 	"shade": [{
+			"id": 20516,
+			"type": 42,
+			"capabilities": 0,
 			"batteryStatus": 3,
-			"batteryStrength": 200,
-			"groupId": 5,
-			"id": 7,
-			"name": "U2hhZGUgMQ==",
-			"order": 0,
+			"batteryStrength": 165,
+			"roomId": 15451,
+			"firmware": {
+				"revision": 1,
+				"subRevision": 8,
+				"build": 1944
+			},
+			"motor": {
+				"revision": 51,
+				"subRevision": 52,
+				"build": 11825
+			},
+			"name": "U21hbGwgTGl2aW5n",
+			"groupId": 57728,
 			"positions": {
-				"posKind1": 1,
-				"posKind2": 2,
 				"position1": 65535,
-				"position2": 0
+				"posKind1": 1
 			},
-			"roomId": 11,
-			"type": 8
+			"signalStrength": 4
 		},
 		{
+			"id": 31636,
+			"type": 42,
+			"capabilities": 0,
 			"batteryStatus": 3,
-			"batteryStrength": 150,
-			"groupId": 5,
-			"id": 8,
-			"name": "U2hhZGUgMg==",
-			"order": 0,
-			"positions": {
-				"posKind1": 1,
-				"posKind2": 2,
-				"position1": 45000,
-				"position2": 0
+			"batteryStrength": 163,
+			"roomId": 15451,
+			"firmware": {
+				"revision": 1,
+				"subRevision": 8,
+				"build": 1944
 			},
-			"roomId": 11,
-			"type": 8
-		},
-		{
-			"batteryStatus": 3,
-			"batteryStrength": 10,
-			"groupId": 5,
-			"id": 9,
-			"name": "U2hhZGUgMw==",
-			"order": 0,
+			"motor": {
+				"revision": 51,
+				"subRevision": 52,
+				"build": 11825
+			},
+			"name": "QmlnIExpdmluZw==",
+			"groupId": 57728,
+			"signalStrength": 4,
 			"positions": {
-				"posKind1": 1,
-				"posKind2": 2,
 				"position1": 0,
-				"position2": 0
+				"posKind1": 1
+			}
+		},
+		{
+			"id": 55784,
+			"type": 42,
+			"capabilities": 0,
+			"batteryStatus": 2,
+			"batteryStrength": 120,
+			"roomId": 14714,
+			"firmware": {
+				"revision": 1,
+				"subRevision": 8,
+				"build": 1944
 			},
-			"roomId": 11,
-			"type": 8
+			"motor": {
+				"revision": 51,
+				"subRevision": 52,
+				"build": 11825
+			},
+			"name": "QmVkcm9vbSBCbGluZHM=",
+			"groupId": 7921,
+			"signalStrength": 4,
+			"positions": {
+				"posKind1": 1,
+				"position1": 3
+			}
 		}
 	]
 }
